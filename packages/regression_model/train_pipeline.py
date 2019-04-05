@@ -1,4 +1,4 @@
-import pathlib
+import pathlib # A standard library for defining directories and paths (newer to ospath library)
 
 
 PACKAGE_ROOT = pathlib.Path(__file__).resolve().parent
